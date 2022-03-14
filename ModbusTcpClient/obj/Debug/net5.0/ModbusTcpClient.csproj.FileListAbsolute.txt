@@ -1,0 +1,16 @@
+C:\Users\ASUS\ModbusTcpClient\bin\Debug\net5.0\ModbusTcpClient.exe
+C:\Users\ASUS\ModbusTcpClient\bin\Debug\net5.0\ModbusTcpClient.deps.json
+C:\Users\ASUS\ModbusTcpClient\bin\Debug\net5.0\ModbusTcpClient.runtimeconfig.json
+C:\Users\ASUS\ModbusTcpClient\bin\Debug\net5.0\ModbusTcpClient.runtimeconfig.dev.json
+C:\Users\ASUS\ModbusTcpClient\bin\Debug\net5.0\ModbusTcpClient.dll
+C:\Users\ASUS\ModbusTcpClient\bin\Debug\net5.0\ref\ModbusTcpClient.dll
+C:\Users\ASUS\ModbusTcpClient\bin\Debug\net5.0\ModbusTcpClient.pdb
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ModbusTcpClient.csproj.AssemblyReference.cache
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ModbusTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ModbusTcpClient.AssemblyInfoInputs.cache
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ModbusTcpClient.AssemblyInfo.cs
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ModbusTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ModbusTcpClient.dll
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ref\ModbusTcpClient.dll
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ModbusTcpClient.pdb
+C:\Users\ASUS\ModbusTcpClient\obj\Debug\net5.0\ModbusTcpClient.genruntimeconfig.cache
